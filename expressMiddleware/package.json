@@ -1,0 +1,25 @@
+{
+  "name": "expressmiddleware",
+  "version": "1.0.0",
+  "description": "express middleware",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milancodess/nodejs.git"
+  },
+  "author": "milan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milancodess/nodejs/issues"
+  },
+  "homepage": "https://github.com/milancodess/nodejs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
